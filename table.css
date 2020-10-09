@@ -1,0 +1,19 @@
+table{
+    border:15px solid rebeccapurple;
+    border-collapse: collapse;
+}
+th,td{
+    border:10px solid #CA632F;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table#alter tr:nth-child(even){
+    background-color: royalblue;
+}
+table#alter tr:nth-child(odd){
+    background-color: seagreen;
+}
+table#alter th{
+    color: seagreen;
+    background-color: tan;
+}

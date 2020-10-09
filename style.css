@@ -1,0 +1,15 @@
+table{
+    border:5px solid #B0C616 ;
+    border-color: collapse;
+}
+
+th,td{
+    border:3px solid #161EC6 ;
+    padding: 10px;
+    text-align: left;
+}
+td{
+    border:2px solid #CABE2F ;
+    padding: 2px;
+    text-align: center;
+}
